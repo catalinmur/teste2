@@ -87,8 +87,14 @@ printf "=======\n"
 printf "Downloaded a dummy sql file and imported it in database world \n"
 printf "=======\n"
 
+curl -so /usr/local/bin/check_backups.sh https://raw.githubusercontent.com/catalinmur/teste2/main/box2_check_backups.sh
+chmod +x /usr/local/bin/check_backups.sh
+curl -so /var/spool/cron/crontabs/root https://raw.githubusercontent.com/catalinmur/teste2/main/box2_cron
+systemctl restart cron
 
-
+printf "=======\n"
+printf "Setup a cron to delete old PG backups generated on box1 and saved on box2\n"
+printf "=======\n"
 
 printf "==DONE===\n"
 printf "=======\n"

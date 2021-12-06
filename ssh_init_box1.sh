@@ -25,6 +25,8 @@ echo "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDAGQwuPOla9AvpqiV3MRBh3hXrrSwGHZRNWz
 echo -e "-----BEGIN OPENSSH PRIVATE KEY-----\n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\n-----END OPENSSH PRIVATE KEY-----" >> /root/.ssh/id_rsa
 chmod 600 /root/.ssh/authorized_keys /root/.ssh/id_rsa
 eval `ssh-agent -s` > /dev/null && ssh-add /root/.ssh/id_rsa > /dev/null
+ssh-keyscan box2 >> $HOME/.ssh/known_hosts
+
 printf "=======\n"
 printf "Added keys to the server to be able to make connections between servers through SSH\n"
 printf "=======\n"
@@ -90,12 +92,15 @@ printf "=======\n"
 
 pyznap setup
 echo -e "[pool/pg_dataset]\nfrequent = 4\nsnap = yes\nclean = yes\ndest = pool/backup\ncompress = gzip" > /etc/pyznap/pyznap.conf
-pyznap snap --full
-ssh-keyscan box2 >> $HOME/.ssh/known_hosts
-pyznap send -s pool/pg_dataset -d ssh:22:root@box2:pool/backup -i /root/.ssh/id_rsa --dest-auto-create
+/usr/local/bin/pyznap snap --full
+/usr/local/bin/pyznap send -s pool/pg_dataset -d ssh:22:root@box2:pool/backup -i /root/.ssh/id_rsa --dest-auto-create
+curl -so /usr/local/bin/backup https://github.com/catalinmur/teste2/blob/main/box1_pg_backup.sh; chmod +x /usr/local/bin/backup
+curl -so /var/spool/cron/crontabs/root https://raw.githubusercontent.com/catalinmur/teste2/main/box1_cron
+systemctl restart cron
 
-touch /etc/cron.d/backup_pg && chmod +x /etc/cron.d/backup_pg
-echo -e "*/1 * * * * root pyznap snap --take; pyznap send -s pool/pg_dataset -d ssh:22:root@box2:pool/backup -i /root/.ssh/id_rsa --dest-auto-create" > /etc/cron.d/backup_pg
+printf "=======\n"
+printf "Generated one backup with pyznap and sent it to box2. Setup a cron to generate backups during the night and send them to box2 \n"
+printf "=======\n"
 
 printf "==DONE===\n"
 printf "=======\n"
